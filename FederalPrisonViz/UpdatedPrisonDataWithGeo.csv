@@ -1,0 +1,90 @@
+Facility,Inmates Positive,Staff Positive,Inmate Deaths,Staff Deaths,Inmates Recovered,Staff Recovered,City,State,Latitude,Longitude
+Allenwood Medium FCI,0,0,0,0,0,1,White Deer,PA,41.07592,-76.8747
+Allenwood USP,0,0,0,0,0,1,Allenwood,PA,41.1086,-76.8973
+Beaumont Low FCI,0,1,0,0,0,0,Beaumont,TX,30.08605,-94.1018
+Beaumont Medium FCI,0,3,0,0,0,0,Beaumont,TX,30.08605,-94.1018
+"Behavioral Systems Southwest, Inc. (RRC)",0,0,1,0,0,0,Phoenix,AZ,33.44844,-112.074
+Brooklyn MDC,0,17,0,0,6,20,Brooklyn,NY,40.6501,-73.9496
+Canaan USP,0,1,0,0,1,3,Waymart,PA,41.58036,-75.4082
+Central Office HQ,0,0,0,0,0,2,Washington,DC,38.89499,-77.0366
+Coleman I USP,0,1,0,0,0,1,Sumterville,FL,28.74499,-82.0634
+Coleman II USP,0,0,0,0,0,1,Sumterville,FL,28.74499,-82.0634
+Community Education Centers; DBA: CEC (RRC),0,0,0,0,2,0,Philadelphia,PA,39.95272,-75.1635
+Cumberland FCI,0,2,0,0,6,0,Cumberland,MD,39.65265,-78.7624
+Dismas House of St. Louis (RRC),0,0,0,0,2,0,Saint Louis,MO,38.6268,-90.1994
+El Reno FCI,0,1,0,0,0,0,El Reno,OK,35.5322,-97.9551
+Englewood FCI,0,0,0,0,0,1,Littleton,CO,39.61332,-105.017
+Fairton FCI,0,1,0,0,0,1,Fairton,NJ,39.37746,-75.208
+Forrest City Medium FCI,0,3,0,0,5,3,Forrest City,AR,35.00815,-90.7898
+"GEO Care, Inc. (RRC)",0,0,1,0,0,0,Bronx,NY,40.84665,-73.8786
+Grand Prairie,0,1,0,0,0,0,Grand Prairie,TX,32.65737,-97.0285
+La Tuna FCI,0,1,0,0,0,1,Anthony,TX,31.99388,-106.596
+Leavenworth USP,0,0,0,0,0,1,Leavenworth,KS,39.21471,-95.062
+Lewisburg USP,0,1,0,0,0,0,Lewisburg,PA,40.96453,-76.8844
+Los Angeles MDC,0,1,0,0,0,0,Los Angeles,CA,34.05369,-118.243
+McCreary USP,0,1,0,0,1,0,Pine Knot,KY,36.66383,-84.446
+McDowell FCI,0,1,0,0,0,0,Welch,WV,37.43289,-81.5844
+Memphis FCI,0,1,0,0,0,0,Memphis,TN,35.14902,-90.0516
+Miami FDC,0,14,0,0,0,2,Miami,FL,25.77427,-80.1937
+Montgomery FPC,0,1,0,0,0,0,Montgomery,AL,32.36697,-86.3006
+New York MCC,0,15,0,0,5,23,New York,NY,40.71273,-74.006
+Otisville FCI,0,1,0,0,17,14,Otisville,NY,41.47343,-74.5385
+Philadelphia FDC,0,2,0,0,0,1,Philadelphia,PA,39.95272,-75.1635
+Ray Brook FCI,0,6,0,0,11,3,Ray Brook,NY,44.29169,-74.0789
+Rochester FMC,0,1,0,0,0,0,Rochester,MN,44.02344,-92.463
+Seagoville FCI,0,0,0,0,1,0,Seagoville,TX,32.64479,-96.5419
+Southeast RO,0,1,0,0,0,0,Atlanta,GA,33.7491,-84.3902
+Talladega FCI,0,0,0,0,0,5,Talladega,AL,33.39671,-86.1597
+Tallahassee FCI,0,1,0,0,0,0,Tallahassee,FL,30.43808,-84.2809
+Tucson USP,0,0,0,0,0,1,Tucson,AZ,32.22288,-110.975
+Volunteers of America (RRC),0,0,0,0,3,0,Metairie,LA,30.00185,-90.1767
+Aliceville FCI,1,4,0,0,9,3,Aliceville,AL,33.12957,-88.1514
+Atlanta USP,1,6,0,0,15,3,Atlanta,GA,33.7491,-84.3902
+"Behavioral Systems Southwest, Inc. (RRC)",1,0,0,0,0,0,Los Angeles,CA,34.05369,-118.243
+Carswell FMC,1,0,1,0,0,0,Fort Worth,TX,32.75318,-97.3327
+Central Arizona Florence Correctional Complex (RRC),1,0,0,0,0,0,Florence,AZ,33.03145,-111.387
+Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),1,0,0,0,8,0,Chicago,IL,41.87556,-87.6244
+"Cherry Street Services, Inc. (RRC)",1,0,0,0,0,0,Detroit,MI,42.33155,-83.0466
+Coleman Low FCI,1,1,0,0,0,1,Sumterville,FL,28.74499,-82.0634
+"CORE Services Group, Inc. (RRC)",1,0,0,0,3,0,Brooklyn,NY,40.6501,-73.9496
+Devens FMC,1,2,1,0,0,0,Ayer,MA,42.5612,-71.5898
+"GEO Care, LLC (RRC)",1,0,0,0,0,0,Sacramento,CA,38.58157,-121.494
+"Keeton Corrections, Inc. (Birmingham) (RRC)",1,0,0,0,0,0,Birmingham,AL,33.52068,-86.8024
+Oakdale II FCI,1,8,1,0,6,0,Oakdale,LA,44.991,-92.9644
+Otero County Prison Facility (RRC),1,0,0,0,0,0,Charparral,NM,32.07864,-106.28084
+Pioneer Human Services; DBA: Pioneer Industries (RRC),1,0,0,0,1,0,Seattle,WA,47.60383,-122.33
+"Southeast Missouri Behavioral Health, Inc.; DBA: SEMO CTC (RRC)",1,0,0,0,0,0,Farmington,MO,36.72912,-108.205
+Volunteers of America of Greater Ohio (RRC),1,0,0,0,0,0,Toledo,OH,41.67868,-83.5127
+"Volunteers of America of Western New York, Inc. (RRC)",1,0,0,0,0,0,Rochester,NY,43.15729,-77.6152
+Yazoo City Medium FCI,1,6,0,0,6,2,Yazoo City,MS,32.85513,-90.4056
+"Cherry Street Services, Inc. (RRC)",2,0,0,0,2,0,Grand Rapids,MI,42.96324,-85.6679
+"GEO Reentry of Alaska, Inc. (RRC)",2,0,0,0,0,0,Oakland,CA,37.80446,-122.271
+Watkinson House (RRC),2,0,0,0,0,0,Hartford,CT,41.76458,-72.6909
+Bennettsville FCI,3,2,0,0,1,0,Bennettsville,SC,34.61738,-79.6848
+"Kintock Group, The (RRC)",3,0,0,0,0,0,Philadelphia,PA,39.95272,-75.1635
+"Kintock Group, The (RRC)",3,0,0,0,0,0,Newark,NJ,40.73566,-74.1724
+Butner FMC,5,5,0,0,0,2,Butner,NC,36.12474,-78.7572
+Gilmer FCI,5,0,0,0,0,0,Glenville,WV,38.93426,-80.8376
+"Community Resources for Justice, Inc. (RRC)",7,0,0,0,0,0,Boston,MA,42.36025,-71.0583
+"Volunteers of America Texas, Inc. (RRC)",8,0,0,0,0,0,Hutchins,TX,32.6493,-96.7131
+Yazoo City USP,12,10,1,0,0,0,Yazoo City,MS,32.85513,-90.4056
+Milan FCI,13,11,3,0,58,45,Milan,MI,42.08486,-83.683
+"Dismas Charities, Inc. (RRC)",14,0,0,0,0,0,Corpus Christi,TX,27.74773,-97.4014
+Butner Low FCI,17,3,0,0,39,4,Butner,NC,36.12474,-78.7572
+"Volunteers of America, Inc. (Minnesota) (RRC)",19,0,0,0,0,0,Minneapolis,MN,44.9773,-93.2655
+Hampshire House (RRC),20,0,0,0,0,0,Manchester,NH,42.99564,-71.4548
+Lompoc USP,21,16,2,0,93,6,Lompoc,CA,34.63915,-120.458
+"GEO Reentry, Inc. (RRC)",23,0,0,0,0,0,Leavenworth,KS,39.21471,-95.062
+Oklahoma City FTC,25,0,1,0,0,0,Oklahoma City,OK,35.47299,-97.5171
+Danbury FCI,27,7,1,0,48,50,Danbury,CT,41.39482,-73.454
+Fort Dix FCI,27,1,0,0,31,4,Joint Base Mdl,NJ,39.99735,-74.613
+Yazoo City Low FCI,30,5,0,0,68,2,Yazoo City,MS,32.85513,-90.4056
+Oakdale I FCI,49,17,7,0,58,1,Oakdale,LA,44.991,-92.9644
+Elkton FCI,89,12,9,0,50,40,Lisbon,OH,40.772,-80.7681
+Chicago MCC,104,15,0,0,39,14,Chicago,IL,41.87556,-87.6244
+Terminal Island FCI,150,15,7,0,552,0,San Pedro,CA,33.73585,-118.292
+Lexington FMC,157,6,1,0,1,0,Lexington,KY,38.04641,-84.497
+Butner Medium I FCI,197,13,7,0,61,12,Butner,NC,36.12474,-78.7572
+Forrest City Low FCI,244,1,0,0,50,2,Forrest City,AR,35.00815,-90.7898
+Fort Worth FMC,635,4,6,0,4,0,Fort Worth,TX,32.75318,-97.3327
+Lompoc FCI,886,13,0,0,25,3,Lompoc,CA,34.63915,-120.458
