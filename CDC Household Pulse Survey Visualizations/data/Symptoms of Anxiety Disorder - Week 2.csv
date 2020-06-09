@@ -1,0 +1,52 @@
+,Indicator,Group,State,Subgroup,Week,Week Label,Value,Low CI,High CI,Confidence Interval,Quartile range,State Abbreviation
+0,Symptoms of Anxiety Disorder,By State,Alabama,Alabama,2,May 7 - May 12,27.2,21.1,34.1,21.1 - 34.1,26.3 - 28.7,AL
+1,Symptoms of Anxiety Disorder,By State,Alaska,Alaska,2,May 7 - May 12,27.4,22.8,32.4,22.8 - 32.4,26.3 - 28.7,AK
+2,Symptoms of Anxiety Disorder,By State,Arizona,Arizona,2,May 7 - May 12,34.2,29.2,39.4,29.2 - 39.4,31.6 - 38.3,AZ
+3,Symptoms of Anxiety Disorder,By State,Arkansas,Arkansas,2,May 7 - May 12,29.1,23.4,35.3,23.4 - 35.3,28.8 - 31.5,AR
+4,Symptoms of Anxiety Disorder,By State,California,California,2,May 7 - May 12,31.4,27.4,35.6,27.4 - 35.6,28.8 - 31.5,CA
+5,Symptoms of Anxiety Disorder,By State,Colorado,Colorado,2,May 7 - May 12,29.7,23.4,36.8,23.4 - 36.8,28.8 - 31.5,CO
+6,Symptoms of Anxiety Disorder,By State,Connecticut,Connecticut,2,May 7 - May 12,29.1,22.4,36.6,22.4 - 36.6,28.8 - 31.5,CT
+7,Symptoms of Anxiety Disorder,By State,Delaware,Delaware,2,May 7 - May 12,24.9,19.7,30.8,19.7 - 30.8,20.3 - 26.2,DE
+8,Symptoms of Anxiety Disorder,By State,District of Columbia,District of Columbia,2,May 7 - May 12,36.2,28.6,44.5,28.6 - 44.5,31.6 - 38.3,DC
+9,Symptoms of Anxiety Disorder,By State,Florida,Florida,2,May 7 - May 12,27.6,23.1,32.5,23.1 - 32.5,26.3 - 28.7,FL
+10,Symptoms of Anxiety Disorder,By State,Georgia,Georgia,2,May 7 - May 12,29.5,24.2,35.4,24.2 - 35.4,28.8 - 31.5,GA
+11,Symptoms of Anxiety Disorder,By State,Hawaii,Hawaii,2,May 7 - May 12,20.4,15.9,25.5,15.9 - 25.5,20.3 - 26.2,HI
+12,Symptoms of Anxiety Disorder,By State,Idaho,Idaho,2,May 7 - May 12,25.0,19.9,30.6,19.9 - 30.6,20.3 - 26.2,ID
+13,Symptoms of Anxiety Disorder,By State,Illinois,Illinois,2,May 7 - May 12,35.7,30.6,41.1,30.6 - 41.1,31.6 - 38.3,IL
+14,Symptoms of Anxiety Disorder,By State,Indiana,Indiana,2,May 7 - May 12,31.5,26.5,36.9,26.5 - 36.9,28.8 - 31.5,IN
+15,Symptoms of Anxiety Disorder,By State,Iowa,Iowa,2,May 7 - May 12,20.3,15.5,25.9,15.5 - 25.9,20.3 - 26.2,IA
+16,Symptoms of Anxiety Disorder,By State,Kansas,Kansas,2,May 7 - May 12,25.1,20.0,30.9,20.0 - 30.9,20.3 - 26.2,KS
+17,Symptoms of Anxiety Disorder,By State,Kentucky,Kentucky,2,May 7 - May 12,29.6,24.6,35.0,24.6 - 35.0,28.8 - 31.5,KY
+18,Symptoms of Anxiety Disorder,By State,Louisiana,Louisiana,2,May 7 - May 12,34.6,27.2,42.7,27.2 - 42.7,31.6 - 38.3,LA
+19,Symptoms of Anxiety Disorder,By State,Maine,Maine,2,May 7 - May 12,28.9,22.7,35.7,22.7 - 35.7,28.8 - 31.5,ME
+20,Symptoms of Anxiety Disorder,By State,Maryland,Maryland,2,May 7 - May 12,30.1,24.2,36.6,24.2 - 36.6,28.8 - 31.5,MD
+21,Symptoms of Anxiety Disorder,By State,Massachusetts,Massachusetts,2,May 7 - May 12,28.7,24.5,33.3,24.5 - 33.3,26.3 - 28.7,MA
+22,Symptoms of Anxiety Disorder,By State,Michigan,Michigan,2,May 7 - May 12,27.0,22.4,32.1,22.4 - 32.1,26.3 - 28.7,MI
+23,Symptoms of Anxiety Disorder,By State,Minnesota,Minnesota,2,May 7 - May 12,22.9,18.4,27.9,18.4 - 27.9,20.3 - 26.2,MN
+24,Symptoms of Anxiety Disorder,By State,Mississippi,Mississippi,2,May 7 - May 12,38.3,30.9,46.0,30.9 - 46.0,31.6 - 38.3,MS
+25,Symptoms of Anxiety Disorder,By State,Missouri,Missouri,2,May 7 - May 12,37.8,32.3,43.7,32.3 - 43.7,31.6 - 38.3,MO
+26,Symptoms of Anxiety Disorder,By State,Montana,Montana,2,May 7 - May 12,24.9,18.1,32.8,18.1 - 32.8,20.3 - 26.2,MT
+27,Symptoms of Anxiety Disorder,By State,Nebraska,Nebraska,2,May 7 - May 12,29.6,23.1,36.8,23.1 - 36.8,28.8 - 31.5,NE
+28,Symptoms of Anxiety Disorder,By State,Nevada,Nevada,2,May 7 - May 12,34.0,28.3,40.2,28.3 - 40.2,31.6 - 38.3,NV
+29,Symptoms of Anxiety Disorder,By State,New Hampshire,New Hampshire,2,May 7 - May 12,30.4,25.7,35.5,25.7 - 35.5,28.8 - 31.5,NH
+30,Symptoms of Anxiety Disorder,By State,New Jersey,New Jersey,2,May 7 - May 12,36.3,29.9,43.2,29.9 - 43.2,31.6 - 38.3,NJ
+31,Symptoms of Anxiety Disorder,By State,New Mexico,New Mexico,2,May 7 - May 12,30.2,22.7,38.4,22.7 - 38.4,28.8 - 31.5,NM
+32,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33.0,27.7,38.5,27.7 - 38.5,31.6 - 38.3,NY
+33,Symptoms of Anxiety Disorder,By State,North Carolina,North Carolina,2,May 7 - May 12,25.9,20.4,32.0,20.4 - 32.0,20.3 - 26.2,NC
+34,Symptoms of Anxiety Disorder,By State,North Dakota,North Dakota,2,May 7 - May 12,25.4,18.8,33.0,18.8 - 33.0,20.3 - 26.2,ND
+35,Symptoms of Anxiety Disorder,By State,Ohio,Ohio,2,May 7 - May 12,26.4,21.6,31.6,21.6 - 31.6,26.3 - 28.7,OH
+36,Symptoms of Anxiety Disorder,By State,Oklahoma,Oklahoma,2,May 7 - May 12,27.2,20.7,34.6,20.7 - 34.6,26.3 - 28.7,OK
+37,Symptoms of Anxiety Disorder,By State,Oregon,Oregon,2,May 7 - May 12,26.2,22.5,30.3,22.5 - 30.3,20.3 - 26.2,OR
+38,Symptoms of Anxiety Disorder,By State,Pennsylvania,Pennsylvania,2,May 7 - May 12,28.4,23.7,33.5,23.7 - 33.5,26.3 - 28.7,PA
+39,Symptoms of Anxiety Disorder,By State,Rhode Island,Rhode Island,2,May 7 - May 12,26.9,19.2,35.9,19.2 - 35.9,26.3 - 28.7,RI
+40,Symptoms of Anxiety Disorder,By State,South Carolina,South Carolina,2,May 7 - May 12,27.9,23.0,33.3,23.0 - 33.3,26.3 - 28.7,SC
+41,Symptoms of Anxiety Disorder,By State,South Dakota,South Dakota,2,May 7 - May 12,26.1,17.9,35.7,17.9 - 35.7,20.3 - 26.2,SD
+42,Symptoms of Anxiety Disorder,By State,Tennessee,Tennessee,2,May 7 - May 12,29.6,23.4,36.5,23.4 - 36.5,28.8 - 31.5,TN
+43,Symptoms of Anxiety Disorder,By State,Texas,Texas,2,May 7 - May 12,32.4,28.2,36.9,28.2 - 36.9,31.6 - 38.3,TX
+44,Symptoms of Anxiety Disorder,By State,Utah,Utah,2,May 7 - May 12,26.0,21.6,30.9,21.6 - 30.9,20.3 - 26.2,UT
+45,Symptoms of Anxiety Disorder,By State,Vermont,Vermont,2,May 7 - May 12,31.8,25.3,38.8,25.3 - 38.8,31.6 - 38.3,VT
+46,Symptoms of Anxiety Disorder,By State,Virginia,Virginia,2,May 7 - May 12,26.8,21.8,32.3,21.8 - 32.3,26.3 - 28.7,VA
+47,Symptoms of Anxiety Disorder,By State,Washington,Washington,2,May 7 - May 12,28.5,24.5,32.8,24.5 - 32.8,26.3 - 28.7,WA
+48,Symptoms of Anxiety Disorder,By State,West Virginia,West Virginia,2,May 7 - May 12,34.6,27.3,42.4,27.3 - 42.4,31.6 - 38.3,WV
+49,Symptoms of Anxiety Disorder,By State,Wisconsin,Wisconsin,2,May 7 - May 12,25.6,19.4,32.6,19.4 - 32.6,20.3 - 26.2,WI
+50,Symptoms of Anxiety Disorder,By State,Wyoming,Wyoming,2,May 7 - May 12,22.5,15.0,31.7,15.0 - 31.7,20.3 - 26.2,WY

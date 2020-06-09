@@ -1,0 +1,52 @@
+Indicator,Group,State,Subgroup,State Abbreviation,Week,Week-Label,Value,Low CI,High CI,Confidence Interval,Quartile Range
+Symptoms of Depressive Disorder,By State,Alabama,Alabama,AL,3,May 14 - May 19,19.6,15.6,24.2,15.6 - 24.2,18.1-20.7
+Symptoms of Depressive Disorder,By State,Alaska,Alaska,AK,3,May 14 - May 19,23.6,19.5,28.2,19.5 - 28.2,23.3-25.6
+Symptoms of Depressive Disorder,By State,Arizona,Arizona,AZ,3,May 14 - May 19,20,16.3,24.2,16.3 - 24.2,18.1-20.7
+Symptoms of Depressive Disorder,By State,Arkansas,Arkansas,AR,3,May 14 - May 19,28.9,24.4,33.6,24.4 - 33.6,25.7-36.4
+Symptoms of Depressive Disorder,By State,California,California,CA,3,May 14 - May 19,28.7,25.3,32.4,25.3 - 32.4,25.7-36.4
+Symptoms of Depressive Disorder,By State,Colorado,Colorado,CO,3,May 14 - May 19,23.7,19.9,27.8,19.9 - 27.8,23.3-25.6
+Symptoms of Depressive Disorder,By State,Connecticut,Connecticut,CT,3,May 14 - May 19,20.2,16.5,24.3,16.5 - 24.3,18.1-20.7
+Symptoms of Depressive Disorder,By State,Delaware,Delaware,DE,3,May 14 - May 19,21.8,17.9,26.2,17.9 - 26.2,20.8-23.2
+Symptoms of Depressive Disorder,By State,District of Columbia,District of Columbia,DC,3,May 14 - May 19,25.9,18.9,33.9,18.9 - 33.9,25.7-36.4
+Symptoms of Depressive Disorder,By State,Florida,Florida,FL,3,May 14 - May 19,24.3,21.1,27.7,21.1 - 27.7,23.3-25.6
+Symptoms of Depressive Disorder,By State,Georgia,Georgia,GA,3,May 14 - May 19,24.8,20.7,29.2,20.7 - 29.2,23.3-25.6
+Symptoms of Depressive Disorder,By State,Hawaii,Hawaii,HI,3,May 14 - May 19,21.3,16.5,26.8,16.5 - 26.8,20.8-23.2
+Symptoms of Depressive Disorder,By State,Idaho,Idaho,ID,3,May 14 - May 19,18.1,14.1,22.8,14.1 - 22.8,18.1-20.7
+Symptoms of Depressive Disorder,By State,Illinois,Illinois,IL,3,May 14 - May 19,24.3,20.4,28.5,20.4 - 28.5,23.3-25.6
+Symptoms of Depressive Disorder,By State,Indiana,Indiana,IN,3,May 14 - May 19,24.5,20.2,29.2,20.2 - 29.2,23.3-25.6
+Symptoms of Depressive Disorder,By State,Iowa,Iowa,IA,3,May 14 - May 19,18.6,14.1,23.9,14.1 - 23.9,18.1-20.7
+Symptoms of Depressive Disorder,By State,Kansas,Kansas,KS,3,May 14 - May 19,21.2,17.9,24.8,17.9 - 24.8,20.8-23.2
+Symptoms of Depressive Disorder,By State,Kentucky,Kentucky,KY,3,May 14 - May 19,22.8,18.8,27.1,18.8 - 27.1,20.8-23.2
+Symptoms of Depressive Disorder,By State,Louisiana,Louisiana,LA,3,May 14 - May 19,26.5,21.3,32.1,21.3 - 32.1,25.7-36.4
+Symptoms of Depressive Disorder,By State,Maine,Maine,ME,3,May 14 - May 19,25.6,20.3,31.4,20.3 - 31.4,23.3-25.6
+Symptoms of Depressive Disorder,By State,Maryland,Maryland,MD,3,May 14 - May 19,20.8,17.9,24,17.9 - 24.0,20.8-23.2
+Symptoms of Depressive Disorder,By State,Massachusetts,Massachusetts,MA,3,May 14 - May 19,22.8,20.4,25.4,20.4 - 25.4,20.8-23.2
+Symptoms of Depressive Disorder,By State,Michigan,Michigan,MI,3,May 14 - May 19,27.9,23.8,32.2,23.8 - 32.2,25.7-36.4
+Symptoms of Depressive Disorder,By State,Minnesota,Minnesota,MN,3,May 14 - May 19,20,16.5,23.9,16.5 - 23.9,18.1-20.7
+Symptoms of Depressive Disorder,By State,Mississippi,Mississippi,MS,3,May 14 - May 19,36.4,30.8,42.4,30.8 - 42.4,25.7-36.4
+Symptoms of Depressive Disorder,By State,Missouri,Missouri,MO,3,May 14 - May 19,24.3,19.1,30,19.1 - 30.0,23.3-25.6
+Symptoms of Depressive Disorder,By State,Montana,Montana,MT,3,May 14 - May 19,21.1,16.3,26.6,16.3 - 26.6,20.8-23.2
+Symptoms of Depressive Disorder,By State,Nebraska,Nebraska,NE,3,May 14 - May 19,20.4,16.2,25.2,16.2 - 25.2,18.1-20.7
+Symptoms of Depressive Disorder,By State,Nevada,Nevada,NV,3,May 14 - May 19,26.9,22.6,31.6,22.6 - 31.6,25.7-36.4
+Symptoms of Depressive Disorder,By State,New Hampshire,New Hampshire,NH,3,May 14 - May 19,20.3,16.8,24.2,16.8 - 24.2,18.1-20.7
+Symptoms of Depressive Disorder,By State,New Jersey,New Jersey,NJ,3,May 14 - May 19,26.9,22.5,31.6,22.5 - 31.6,25.7-36.4
+Symptoms of Depressive Disorder,By State,New Mexico,New Mexico,NM,3,May 14 - May 19,28.4,23.9,33.3,23.9 - 33.3,25.7-36.4
+Symptoms of Depressive Disorder,By State,New York,New York,NY,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6
+Symptoms of Depressive Disorder,By State,North Carolina,North Carolina,NC,3,May 14 - May 19,22.6,17.3,28.7,17.3 - 28.7,20.8-23.2
+Symptoms of Depressive Disorder,By State,North Dakota,North Dakota,ND,3,May 14 - May 19,22.5,16.9,29,16.9 - 29.0,20.8-23.2
+Symptoms of Depressive Disorder,By State,Ohio,Ohio,OH,3,May 14 - May 19,27,21.8,32.7,21.8 - 32.7,25.7-36.4
+Symptoms of Depressive Disorder,By State,Oklahoma,Oklahoma,OK,3,May 14 - May 19,25.7,20.2,31.7,20.2 - 31.7,25.7-36.4
+Symptoms of Depressive Disorder,By State,Oregon,Oregon,OR,3,May 14 - May 19,22.7,19.4,26.4,19.4 - 26.4,20.8-23.2
+Symptoms of Depressive Disorder,By State,Pennsylvania,Pennsylvania,PA,3,May 14 - May 19,19.8,16.1,24,16.1 - 24.0,18.1-20.7
+Symptoms of Depressive Disorder,By State,Rhode Island,Rhode Island,RI,3,May 14 - May 19,18.8,14.3,24,14.3 - 24.0,18.1-20.7
+Symptoms of Depressive Disorder,By State,South Carolina,South Carolina,SC,3,May 14 - May 19,25.3,21.3,29.7,21.3 - 29.7,23.3-25.6
+Symptoms of Depressive Disorder,By State,South Dakota,South Dakota,SD,3,May 14 - May 19,22.7,16.7,29.7,16.7 - 29.7,20.8-23.2
+Symptoms of Depressive Disorder,By State,Tennessee,Tennessee,TN,3,May 14 - May 19,25.6,21.6,29.9,21.6 - 29.9,23.3-25.6
+Symptoms of Depressive Disorder,By State,Texas,Texas,TX,3,May 14 - May 19,24.9,21.8,28.1,21.8 - 28.1,23.3-25.6
+Symptoms of Depressive Disorder,By State,Utah,Utah,UT,3,May 14 - May 19,21.2,17.8,24.9,17.8 - 24.9,20.8-23.2
+Symptoms of Depressive Disorder,By State,Vermont,Vermont,VT,3,May 14 - May 19,19,15.4,23.1,15.4 - 23.1,18.1-20.7
+Symptoms of Depressive Disorder,By State,Virginia,Virginia,VA,3,May 14 - May 19,25.4,21.7,29.4,21.7 - 29.4,23.3-25.6
+Symptoms of Depressive Disorder,By State,Washington,Washington,WA,3,May 14 - May 19,23.2,20.2,26.5,20.2 - 26.5,20.8-23.2
+Symptoms of Depressive Disorder,By State,West Virginia,West Virginia,WV,3,May 14 - May 19,27,20.9,33.9,20.9 - 33.9,25.7-36.4
+Symptoms of Depressive Disorder,By State,Wisconsin,Wisconsin,WI,3,May 14 - May 19,20.3,16.3,24.7,16.3 - 24.7,18.1-20.7
+Symptoms of Depressive Disorder,By State,Wyoming,Wyoming,WY,3,May 14 - May 19,20.7,15.1,27.2,15.1 - 27.2,18.1-20.7

@@ -1,0 +1,52 @@
+Indicator,Group,State,Subgroup,State Abbreviation,Week,Week-Label,Value,Low CI,High CI,Confidence Interval,Quartile Range
+Symptoms of Depressive Disorder,By State,Alabama,Alabama,AL,2,May 7 - May 12,22.5,16.4,29.5,16.4 - 29.5,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Alaska,Alaska,AK,2,May 7 - May 12,25.1,20.3,30.4,20.3 - 30.4,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Arizona,Arizona,AZ,2,May 7 - May 12,25.3,19.7,31.7,19.7 - 31.7,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Arkansas,Arkansas,AR,2,May 7 - May 12,24.5,19.2,30.5,19.2 - 30.5,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,California,California,CA,2,May 7 - May 12,22.8,19.2,26.8,19.2 - 26.8,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Colorado,Colorado,CO,2,May 7 - May 12,23.6,17.8,30.2,17.8 - 30.2,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Connecticut,Connecticut,CT,2,May 7 - May 12,21.5,16.2,27.6,16.2 - 27.6,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Delaware,Delaware,DE,2,May 7 - May 12,23.3,18.3,28.9,18.3 - 28.9,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,District of Columbia,District of Columbia,DC,2,May 7 - May 12,30.3,22.8,38.6,22.8 - 38.6,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Florida,Florida,FL,2,May 7 - May 12,24.8,20,30,20.0 - 30.0,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Georgia,Georgia,GA,2,May 7 - May 12,25.6,20.7,30.9,20.7 - 30.9,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Hawaii,Hawaii,HI,2,May 7 - May 12,16.8,12.1,22.4,12.1 - 22.4,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Idaho,Idaho,ID,2,May 7 - May 12,17,13.2,21.5,13.2 - 21.5,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Illinois,Illinois,IL,2,May 7 - May 12,29.2,25.2,33.5,25.2 - 33.5,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Indiana,Indiana,IN,2,May 7 - May 12,19.9,14.8,25.8,14.8 - 25.8,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Iowa,Iowa,IA,2,May 7 - May 12,18.1,12.9,24.2,12.9 - 24.2,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Kansas,Kansas,KS,2,May 7 - May 12,16.7,12.8,21.2,12.8 - 21.2,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Kentucky,Kentucky,KY,2,May 7 - May 12,25.6,19.8,32.2,19.8 - 32.2,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Louisiana,Louisiana,LA,2,May 7 - May 12,30,23.2,37.5,23.2 - 37.5,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Maine,Maine,ME,2,May 7 - May 12,17.1,12.2,23,12.2 - 23.0,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Maryland,Maryland,MD,2,May 7 - May 12,24.6,18.3,31.8,18.3 - 31.8,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Massachusetts,Massachusetts,MA,2,May 7 - May 12,18.9,15.2,23,15.2 - 23.0,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Michigan,Michigan,MI,2,May 7 - May 12,23.4,18.8,28.4,18.8 - 28.4,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Minnesota,Minnesota,MN,2,May 7 - May 12,18.4,13.8,23.9,13.8 - 23.9,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Mississippi,Mississippi,MS,2,May 7 - May 12,35.5,27.5,44.1,27.5 - 44.1,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Missouri,Missouri,MO,2,May 7 - May 12,24.1,18.5,30.5,18.5 - 30.5,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,Montana,Montana,MT,2,May 7 - May 12,20.8,14.7,28.2,14.7 - 28.2,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Nebraska,Nebraska,NE,2,May 7 - May 12,21.6,15.4,28.9,15.4 - 28.9,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Nevada,Nevada,NV,2,May 7 - May 12,31.2,25.4,37.5,25.4 - 37.5,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,New Hampshire,New Hampshire,NH,2,May 7 - May 12,23.3,18.2,28.9,18.2 - 28.9,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,New Jersey,New Jersey,NJ,2,May 7 - May 12,26.4,20.3,33.2,20.3 - 33.2,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,New Mexico,New Mexico,NM,2,May 7 - May 12,29,20.8,38.3,20.8 - 38.3,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,New York,New York,NY,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,North Carolina,North Carolina,NC,2,May 7 - May 12,20.2,15.6,25.5,15.6 - 25.5,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,North Dakota,North Dakota,ND,2,May 7 - May 12,20.2,13.9,27.9,13.9 - 27.9,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Ohio,Ohio,OH,2,May 7 - May 12,26.4,21.3,32.1,21.3 - 32.1,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Oklahoma,Oklahoma,OK,2,May 7 - May 12,20.7,15.4,26.9,15.4 - 26.9,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Oregon,Oregon,OR,2,May 7 - May 12,17.8,13.7,22.6,13.7 - 22.6,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Pennsylvania,Pennsylvania,PA,2,May 7 - May 12,23,18.8,27.8,18.8 - 27.8,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Rhode Island,Rhode Island,RI,2,May 7 - May 12,22.8,15.3,31.9,15.3 - 31.9,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,South Carolina,South Carolina,SC,2,May 7 - May 12,25.6,20.6,31.1,20.6 - 31.1,23.1 - 25.6
+Symptoms of Depressive Disorder,By State,South Dakota,South Dakota,SD,2,May 7 - May 12,20.5,13.5,29.2,13.5 - 29.2,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Tennessee,Tennessee,TN,2,May 7 - May 12,21.7,15.2,29.5,15.2 - 29.5,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Texas,Texas,TX,2,May 7 - May 12,25.7,21.8,30,21.8 - 30.0,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Utah,Utah,UT,2,May 7 - May 12,22.6,17.9,27.8,17.9 - 27.8,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Vermont,Vermont,VT,2,May 7 - May 12,26.8,20.4,34.1,20.4 - 34.1,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Virginia,Virginia,VA,2,May 7 - May 12,20.6,16.4,25.4,16.4 - 25.4,16.7 - 20.6
+Symptoms of Depressive Disorder,By State,Washington,Washington,WA,2,May 7 - May 12,22.9,19.4,26.6,19.4 - 26.6,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,West Virginia,West Virginia,WV,2,May 7 - May 12,31.8,24.7,39.7,24.7 - 39.7,25.7 - 35.5
+Symptoms of Depressive Disorder,By State,Wisconsin,Wisconsin,WI,2,May 7 - May 12,22.9,17.2,29.5,17.2 - 29.5,20.7 - 23.0
+Symptoms of Depressive Disorder,By State,Wyoming,Wyoming,WY,2,May 7 - May 12,18.6,11,28.5,11.0 - 28.5,16.7 - 20.6
